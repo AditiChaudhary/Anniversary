@@ -1,0 +1,93 @@
+.text {
+  width: 70%;
+  text-align: center;
+}
+
+.thomso_photo {
+  margin-inline-start: 0%;
+}
+
+.cute_photo {
+  margin-inline-start: 0%;
+}
+
+.row {
+  border: 1px solid black;
+  box-shadow: 50px 50px 50px 15px grey;
+}
+
+.last_photo {
+  margin-inline-start: 10%;
+}
+
+.last {
+  margin-top: 30%;
+  margin-inline-start: 10%;
+}
+
+.thomso {
+  margin-top: 10%;
+  width: 80%;
+  margin-inline-start: 10%;
+}
+
+.trip_photo {
+  margin-inline-start: -15%;
+}
+
+.trip {
+  margin-top: 15%;
+  margin-inline-start: 15%;
+}
+
+.cute {
+  margin-top: 8%;
+  width: 80%;
+  margin-inline-start: 5%;
+}
+
+.first {
+  margin-inline-start: 10%;
+  margin-top: 10%;
+}
+
+.haridwar {
+  margin-top: 20%;
+  margin-inline-start: 10%;
+}
+
+.button-image {
+  width: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.button-image :hover {
+  text-decoration: none;
+}
+
+.bday2 {
+  margin-top: 25%;
+  margin-inline-start: 5%;
+}
+
+.bday2_photo {
+  margin-inline-start: 10%;
+}
+
+.bday1 {
+  margin-top: 20%;
+  margin-inline-start: 15%;
+}
+
+.ps {
+  font-size: 20px;
+  text-align: center;
+}
+
+.memories {
+  text-align: center;
+  color: rgb(221, 13, 176);
+  font-size: 80px;
+  font-family: "Dancing Script", cursive;
+}
